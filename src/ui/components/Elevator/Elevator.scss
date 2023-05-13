@@ -1,0 +1,10 @@
+.elevator_container {
+    position: relative;
+    width: 70px;
+    display: flex;
+
+    &__item {
+        width: 70px;
+        position: absolute;
+    }
+}
