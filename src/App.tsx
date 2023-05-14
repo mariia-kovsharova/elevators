@@ -11,7 +11,7 @@ import {
     VStack,
 } from '@chakra-ui/react';
 import { useState } from 'react';
-import { HouseComponent, HouseComponentProps } from './ui/components/House/House';
+import { HouseComponent, HouseComponentProps } from './ui/components/House/HouseComponent';
 
 const DEFAULT_SPEED = 1000;
 

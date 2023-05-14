@@ -1,5 +1,5 @@
 import { v4 as uuid } from 'uuid';
-import { EventBus } from '../../../utils/event-bus/eventBus';
+import { EventBus } from '../../../utils/event-bus';
 import { ElevatorState, IElevatorState } from './contracts';
 
 const FIRST_FLOOR = 1;

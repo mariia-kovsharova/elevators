@@ -45,7 +45,7 @@ export const ElevatorComponent = ({ elevator, step }: ElevatorComponentProps) =>
     }
 
     return (
-        <div className='elevator_container'>
+        <div className='elevator_container' data-testid='elevator'>
             <div className={names} style={containerStyles}>
                 <Image
                     height='100px'

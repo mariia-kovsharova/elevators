@@ -1,0 +1,12 @@
+.floor_container__item {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    padding: 10px;
+
+    &:hover {
+        background-color: rgba(226, 232, 240, 0.3);
+    }
+}
