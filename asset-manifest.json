@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elevators/static/css/main.41ac0817.css",
+    "main.js": "/elevators/static/js/main.1dac18e3.js",
+    "static/js/787.5873d98f.chunk.js": "/elevators/static/js/787.5873d98f.chunk.js",
+    "index.html": "/elevators/index.html",
+    "main.41ac0817.css.map": "/elevators/static/css/main.41ac0817.css.map",
+    "main.1dac18e3.js.map": "/elevators/static/js/main.1dac18e3.js.map",
+    "787.5873d98f.chunk.js.map": "/elevators/static/js/787.5873d98f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41ac0817.css",
+    "static/js/main.1dac18e3.js"
+  ]
+}
