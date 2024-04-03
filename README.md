@@ -1,6 +1,6 @@
 # GitHub pages
 
-This project, located on pages [Application](https://fiorsaoirse.github.io/elevators).
+This project, located on pages [Application](https://mariia-kovsharova.github.io/elevators).
 
 ## Available Scripts
 
